@@ -1,0 +1,15 @@
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\labs\ооп\lab 12\lab 12\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

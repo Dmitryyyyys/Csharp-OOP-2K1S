@@ -1,0 +1,15 @@
+C:\labs\ооп\lab 15\lab 15\lab 15\bin\Debug\net6.0\lab 15.exe
+C:\labs\ооп\lab 15\lab 15\lab 15\bin\Debug\net6.0\lab 15.deps.json
+C:\labs\ооп\lab 15\lab 15\lab 15\bin\Debug\net6.0\lab 15.runtimeconfig.json
+C:\labs\ооп\lab 15\lab 15\lab 15\bin\Debug\net6.0\lab 15.dll
+C:\labs\ооп\lab 15\lab 15\lab 15\bin\Debug\net6.0\lab 15.pdb
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.csproj.AssemblyReference.cache
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.AssemblyInfoInputs.cache
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.AssemblyInfo.cs
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.csproj.CoreCompileInputs.cache
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.dll
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\refint\lab 15.dll
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.pdb
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\lab 15.genruntimeconfig.cache
+C:\labs\ооп\lab 15\lab 15\lab 15\obj\Debug\net6.0\ref\lab 15.dll

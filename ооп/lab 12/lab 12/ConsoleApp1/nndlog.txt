@@ -1,0 +1,227 @@
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 12/14/2022 1:10:53 PM
+
+********************************
+
+Action: NNDFileInfo.GetFileInfo()
+File Name: nndlog.txt
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\nndlog.txt
+Date/Time: 12/14/2022 1:10:53 PM
+
+********************************
+
+Action: NNDDirInfo.GetDirInfo()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12
+Date/Time: 12/14/2022 1:10:53 PM
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 12/14/2022 1:10:53 PM
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 12/14/2022 1:10:53 PM
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 12/14/2022 1:10:53 PM
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 12/14/2022 1:50:55 PM
+
+********************************
+
+Action: NNDFileInfo.GetFileInfo()
+File Name: nndlog.txt
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\nndlog.txt
+Date/Time: 12/14/2022 1:50:55 PM
+
+********************************
+
+Action: NNDDirInfo.GetDirInfo()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12
+Date/Time: 12/14/2022 1:50:55 PM
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 12/14/2022 1:50:55 PM
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 12/14/2022 1:50:55 PM
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 12/14/2022 1:50:55 PM
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 07.10.2023 14:46:22
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 07.10.2023 14:46:22
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 07.10.2023 14:46:22
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 07.10.2023 14:49:10
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 07.10.2023 14:49:10
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 07.10.2023 14:49:10
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 07.10.2023 14:49:10
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 07.10.2023 15:05:57
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 07.10.2023 15:05:57
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 07.10.2023 15:05:57
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 07.10.2023 15:05:57
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 14.10.2023 2:27:47
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 14.10.2023 2:27:47
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 14.10.2023 2:27:47
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 14.10.2023 2:27:47
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 14.10.2023 14:39:14
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 14.10.2023 14:39:14
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 14.10.2023 14:39:14
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 14.10.2023 14:39:14
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 14.10.2023 15:04:32
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 14.10.2023 15:04:32
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 14.10.2023 15:04:32
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 14.10.2023 15:04:32
+
+********************************
+
+Action: NNDDiskInfo.getFreeDrivesSpace()
+Date/Time: 20.10.2023 21:26:28
+
+********************************
+
+Action: NNDFileManager.GetAllDirsAndFilesOfDisk()
+Path: D:\
+Date/Time: 20.10.2023 21:26:28
+
+********************************
+
+Action: NNDFileManager.GetAllFilesWithExtension()
+Path: D:\ВУЗ\2nd-year\FoIS
+Date/Time: 20.10.2023 21:26:28
+
+********************************
+
+Action: NNDFileManager.CreateZip()
+Path: D:\ВУЗ\2nd-year\OOP_Net\Laba_12\NNDInspect\NNDFiles
+Date/Time: 20.10.2023 21:26:28
+

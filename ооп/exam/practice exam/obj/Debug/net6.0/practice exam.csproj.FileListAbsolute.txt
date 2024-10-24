@@ -1,0 +1,15 @@
+C:\labs\ооп\exam\practice exam\bin\Debug\net6.0\practice exam.exe
+C:\labs\ооп\exam\practice exam\bin\Debug\net6.0\practice exam.deps.json
+C:\labs\ооп\exam\practice exam\bin\Debug\net6.0\practice exam.runtimeconfig.json
+C:\labs\ооп\exam\practice exam\bin\Debug\net6.0\practice exam.dll
+C:\labs\ооп\exam\practice exam\bin\Debug\net6.0\practice exam.pdb
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.csproj.AssemblyReference.cache
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.AssemblyInfoInputs.cache
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.AssemblyInfo.cs
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.csproj.CoreCompileInputs.cache
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.dll
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\refint\practice exam.dll
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.pdb
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\practice exam.genruntimeconfig.cache
+C:\labs\ооп\exam\practice exam\obj\Debug\net6.0\ref\practice exam.dll
